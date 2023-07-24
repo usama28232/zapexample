@@ -20,5 +20,7 @@
 # Go workspace file
 go.work
 
-zapexample.*
+# other files
+zapexample
+zapexample.exe
 log.txt
